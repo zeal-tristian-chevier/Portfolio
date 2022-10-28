@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ad543dc0.css",
-    "main.js": "/portfolio/static/js/main.24ff3be2.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/PokeMERN2.gif": "/portfolio/static/media/PokeMERN2.c59d49822775189632d1.gif",
-    "static/media/Flak.png": "/portfolio/static/media/Flak.fb396e2c143b1973d317.png",
-    "static/media/Chev.png": "/portfolio/static/media/Chev.1b9dd1c0568f5755de89.png",
-    "static/media/Tire.png": "/portfolio/static/media/Tire.7429fa517d7ee09a2dd0.png",
-    "static/media/TrizyLogoSmall.png": "/portfolio/static/media/TrizyLogoSmall.5f491a21064b395ba5d2.png",
-    "index.html": "/portfolio/index.html",
-    "main.ad543dc0.css.map": "/portfolio/static/css/main.ad543dc0.css.map",
-    "main.24ff3be2.js.map": "/portfolio/static/js/main.24ff3be2.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.ad543dc0.css",
+    "main.js": "/Portfolio/static/js/main.6e03814a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/PokeMERN2.gif": "/Portfolio/static/media/PokeMERN2.c59d49822775189632d1.gif",
+    "static/media/Flak.png": "/Portfolio/static/media/Flak.fb396e2c143b1973d317.png",
+    "static/media/Chev.png": "/Portfolio/static/media/Chev.1b9dd1c0568f5755de89.png",
+    "static/media/Tire.png": "/Portfolio/static/media/Tire.7429fa517d7ee09a2dd0.png",
+    "static/media/TrizyLogoSmall.png": "/Portfolio/static/media/TrizyLogoSmall.5f491a21064b395ba5d2.png",
+    "index.html": "/Portfolio/index.html",
+    "main.ad543dc0.css.map": "/Portfolio/static/css/main.ad543dc0.css.map",
+    "main.6e03814a.js.map": "/Portfolio/static/js/main.6e03814a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad543dc0.css",
-    "static/js/main.24ff3be2.js"
+    "static/js/main.6e03814a.js"
   ]
 }

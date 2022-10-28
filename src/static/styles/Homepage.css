@@ -26,8 +26,8 @@ h2 {
     font-weight: 700;
     font-size: 2rem;
     margin-top: 1rem;
-    border-top: 1px solid black;
-    padding-top: 1rem;
+    border-bottom: 1px solid black;
+    padding: 1rem 0 0.5rem 0;
 }
 p {
     color: rgb(68, 68, 68);

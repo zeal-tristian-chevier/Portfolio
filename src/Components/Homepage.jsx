@@ -10,10 +10,11 @@ const Homepage = () => {
                 <div className="text-start">
                     <h1>About</h1>
                     <p>My name is Tristian Chevier and I am a Full-Stack developer living in Aurora, Colorado.</p>
-                    <h2>How I learned how to code</h2>
-                    <p>After learning a bit of Java in Highschool, I became inspired to developing more with code.</p>
+                    <h2>How I learned to code</h2>
+                    <p>After learning a bit of Java in High School, I became inspired to developing more with code.</p>
                     <p>I spent a few months watching Udemy courses on creating websites because I had always wanted to create websites for the businesses local to me. I believe this is my way of helping those around me.</p>  
                     <p>Unfortunately, I became stuck in the infinite tutorial loop. I wasn't going to give up so I decided to join Coding Dojo.</p>
+                    <p>Coding Dojo taught me the ins and outs of Full-Stack development. Below I have listed all of my projects from each stack.</p>
                     <h1>My Projects</h1>
                     <h2>Flak Official - Python, Flask, MySQL</h2>
                     <p> A Band Promotion Website designed for a local band to promote previous shows and sell merchandise.</p>
@@ -26,7 +27,7 @@ const Homepage = () => {
                     <img src={require('../static/images/Chev.png')} alt="" data-target="animated-image.originalImage" />
                     </a>
                     <h2>PokeMERN - React</h2>
-                    <p>A Pokemon battle remake system. Choose a pokemon face a random enemy pokemon. Made in ReactJs</p>
+                    <p>A Pokemon battle remake system. Choose a pokemon face a random enemy pokemon.</p>
                     <img src={require('../static/images/PokeMERN2.gif')} alt="" data-target="animated-image.originalImage" />
                     <h2>Tire Way - C#, MySQL</h2>
                     <p>A Browser Dealership software designed to handle customer tire orders.</p>

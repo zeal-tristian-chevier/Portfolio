@@ -17,7 +17,7 @@ const Homepage = () => {
                     <p>Coding Dojo taught me the ins and outs of Full-Stack development. Below I have listed all of my projects from each stack.</p>
                     <h1>My Projects</h1>
                     <h2>Flak Official - Python, Flask, MySQL</h2>
-                    <p> A Band Promotion Website designed for a local band to promote previous shows and sell merchandise.</p>
+                    <p> A Band Promotion Website designed for a local band to promote previous shows and sell merchandise, using the Stripe API.</p>
                     <a href="https://flakofficial.herokuapp.com/" target="_blank" rel="noreferrer noopener">
                     <img src={require('../static/images/Flak.png')} alt="" data-target="animated-image.originalImage" />
                     </a>
@@ -27,7 +27,7 @@ const Homepage = () => {
                     <img src={require('../static/images/Chev.png')} alt="" data-target="animated-image.originalImage" />
                     </a>
                     <h2>PokeMERN - React</h2>
-                    <p>A Pokemon battle remake system. Choose a pokemon face a random enemy pokemon.</p>
+                    <p>A Pokemon battle remake system using the Pokemon API. Choose a pokemon face a random enemy pokemon.</p>
                     <img src={require('../static/images/PokeMERN2.gif')} alt="" data-target="animated-image.originalImage" />
                     <h2>Tire Way - C#, MySQL</h2>
                     <p>A Browser Dealership software designed to handle customer tire orders.</p>

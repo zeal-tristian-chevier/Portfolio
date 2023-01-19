@@ -34,6 +34,11 @@ const Homepage = () => {
                     <a href="https://github.com/tchevier/tire-way" target="_blank" rel="noreferrer noopener">
                     <img src={require('../static/images/Tire.png')} alt="" data-target="animated-image.originalImage" />
                     </a>
+                    <h2>Code Crackdown - React</h2>
+                    <p>A game based off of "Mastermind". The player has to try to solve the four-color code.</p>
+                    <a href="https://codecrackdown.com" target="_blank" rel="noreferrer noopener">
+                    <img src={require('../static/images/CodeCrackdown.gif')} alt="" data-target="animated-image.originalImage" />
+                    </a>
                 </div>
             </div>
         </div>

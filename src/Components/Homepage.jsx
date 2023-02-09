@@ -16,6 +16,11 @@ const Homepage = () => {
                     <p>Unfortunately, I became stuck in the infinite tutorial loop. I wasn't going to give up so I decided to join Coding Dojo.</p>
                     <p>Coding Dojo taught me the ins and outs of Full-Stack development. Below I have listed all of my projects from each stack.</p>
                     <h1>My Projects</h1>
+                    <h2>Code Crackdown - MERN</h2>
+                    <p>A game based off the board game "Mastermind" with implemented User login and registration as well as custom scoring algorithm to allow users to participate on the leaderboard.</p>
+                    <a href="https://www.codecrackdown.com/" target="_blank" rel="noreferrer noopener">
+                    <img src={require('../static/images/CodeCrackdown.png')} alt="" data-target="animated-image.originalImage" />
+                    </a>
                     <h2>Flak Official - Python, Flask, MySQL</h2>
                     <p> A Band Promotion Website designed for a local band to promote previous shows and sell merchandise, using the Stripe API.</p>
                     <a href="https://flakofficial.herokuapp.com/" target="_blank" rel="noreferrer noopener">
@@ -28,16 +33,18 @@ const Homepage = () => {
                     </a>
                     <h2>PokeMERN - React</h2>
                     <p>A Pokemon battle remake system using the Pokemon API. Choose a pokemon face a random enemy pokemon.</p>
+                    <a href="https://github.com/SeanMcNamee86/pokemern/tree/dev-sp" target="_blank" rel="noreferrer noopener">
                     <img src={require('../static/images/PokeMERN2.gif')} alt="" data-target="animated-image.originalImage" />
+                    </a>
                     <h2>Tire Way - C#, MySQL</h2>
                     <p>A Browser Dealership software designed to handle customer tire orders.</p>
                     <a href="https://github.com/tchevier/tire-way" target="_blank" rel="noreferrer noopener">
                     <img src={require('../static/images/Tire.png')} alt="" data-target="animated-image.originalImage" />
                     </a>
-                    <h2>Code Crackdown - React</h2>
-                    <p>A game based off of "Mastermind". The player has to try to solve the four-color code.</p>
-                    <a href="https://codecrackdown.com" target="_blank" rel="noreferrer noopener">
-                    <img src={require('../static/images/CodeCrackdown.gif')} alt="" data-target="animated-image.originalImage" />
+                    <h2>Moovies - React</h2>
+                    <p>Mini Netflix clone that calls from a movie API and displays it in React and has a fully functioning search-bar.</p>
+                    <a href="https://charter-spectrum-coding-challenge.vercel.app/" target="_blank" rel="noreferrer noopener">
+                    <img src={require('../static/images/Moovies.png')} alt="" data-target="animated-image.originalImage" />
                     </a>
                 </div>
             </div>

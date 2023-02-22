@@ -16,6 +16,9 @@ const Homepage = () => {
                     <p>Unfortunately, I became stuck in the infinite tutorial loop. I wasn't going to give up so I decided to join Coding Dojo.</p>
                     <p>Coding Dojo taught me the ins and outs of Full-Stack development. Below I have listed all of my projects from each stack.</p>
                     <h1>My Projects</h1>
+                    <h2>PickUpPro - C#, MySQL</h2>
+                    <p>A website created to allow parents to easily pick up their kids from school without the headache of trying to find them. Admins will wait with the students until parents request to pickup their child.</p>
+                    <img onClick={() => alert("The project is private")} src={require('../static/images/PickUpPro.png')} alt="" data-target="animated-image.originalImage" />
                     <h2>Code Crackdown - MERN</h2>
                     <p>A game based off the board game "Mastermind" with implemented User login and registration as well as custom scoring algorithm to allow users to participate on the leaderboard.</p>
                     <a href="https://www.codecrackdown.com/" target="_blank" rel="noreferrer noopener">
@@ -23,7 +26,7 @@ const Homepage = () => {
                     </a>
                     <h2>Flak Official - Python, Flask, MySQL</h2>
                     <p> A Band Promotion Website designed for a local band to promote previous shows and sell merchandise, using the Stripe API.</p>
-                    <a href="https://flakofficial.herokuapp.com/" target="_blank" rel="noreferrer noopener">
+                    <a href="https://github.com/tchevier/Flak-Official" target="_blank" rel="noreferrer noopener">
                     <img src={require('../static/images/Flak.png')} alt="" data-target="animated-image.originalImage" />
                     </a>
                     <h2>Chev's Garage - MERN</h2>

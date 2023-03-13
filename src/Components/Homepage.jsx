@@ -18,7 +18,9 @@ const Homepage = () => {
                     <h1>My Projects</h1>
                     <h2>PickUpPro - C#, MySQL</h2>
                     <p>A website created to allow parents to easily pick up their kids from school without the headache of trying to find them. Admins will wait with the students until parents request to pickup their child.</p>
-                    <img onClick={() => alert("The project is private")} src={require('../static/images/PickUpPro.png')} alt="" data-target="animated-image.originalImage" />
+                    <a href="https://github.com/tchevier/PickUpPro" target="_blank" rel="noreferrer noopener">
+                    <img src={require('../static/images/PickUpPro.png')} alt="" data-target="animated-image.originalImage" />
+                    </a>
                     <h2>Code Crackdown - MERN</h2>
                     <p>A game based off the board game "Mastermind" with implemented User login and registration as well as custom scoring algorithm to allow users to participate on the leaderboard.</p>
                     <a href="https://www.codecrackdown.com/" target="_blank" rel="noreferrer noopener">

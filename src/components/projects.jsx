@@ -5,7 +5,7 @@ const Projects = () => {
             description:
                 "A website created to allow parents to easily pick up their kids from school without the headache of trying to find them. Admins will wait with the students until parents request to pickup their child.",
             image: require("../static/images/PickUpPro.png"),
-            link: "",
+            link: "/",
         },
         {
             name: "Code Crackdown",

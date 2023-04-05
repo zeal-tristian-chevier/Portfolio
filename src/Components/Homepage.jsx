@@ -1,6 +1,6 @@
 import React from "react";
 import "../static/styles/Homepage.css";
-import Projects from "./projects";
+import Projects from "./Projects";
 
 const AboutSection = () => {
     return (

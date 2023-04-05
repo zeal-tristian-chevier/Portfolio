@@ -52,6 +52,7 @@ const Projects = () => {
     ];
     return (
         <>
+        <h1>My Projects</h1>
             {projects.map((project, i) => {
                 return (
                     <div key={i}>

@@ -52,6 +52,13 @@ const Projects = () => {
             image: require("../static/images/Moovies.png"),
             link: "https://charter-spectrum-coding-challenge.vercel.app/",
         },
+        {
+            name: "Lakeview Marina",
+            description:
+                "A customer attraction website for a marina on Lake Dallas, Texas",
+            image: require("../static/images/LakeviewMarina.png"),
+            link: "https://tchevier3.wixsite.com/lakeview-marina",
+        },
     ];
     return (
         <>

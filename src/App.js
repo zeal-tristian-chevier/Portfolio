@@ -45,7 +45,7 @@ const Navbar = () => {
                             <li className="nav-item">
                                 <a
                                     className="nav-link"
-                                    href="https://github.com/tchevier"
+                                    href="https://github.com/zeal-tristian-chevier"
                                     target="_blank"
                                     rel="noreferrer noopener"
                                 >
@@ -85,7 +85,7 @@ const Footer = () => {
                         </a>
                         <a
                             className="btn btn-outline-light btn-floating m-1"
-                            href="https://github.com/tchevier"
+                            href="https://github.com/zeal-tristian-chevier"
                             target="_blank"
                             rel="noreferrer noopener"
                         >
